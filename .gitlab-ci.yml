@@ -1,0 +1,32 @@
+stages:
+  - build
+  - deploy
+  - upload
+
+before_script:
+  - hostname
+
+after_script:
+  - echo 1
+
+job1:
+  stage: build
+  script:
+    - "docker login -u mateusprado -p sua_senha"
+    - "docker build -t $CI_PROJECT_NAME:latest ."
+    - "docker push $CI_PROJECT_NAME"
+  only:
+    - master
+
+job2:
+  stage: upload
+  script: "docker ps"
+  only:
+    - release
+
+job3:
+  stage: deploy
+  script: "docker ps"
+  only:
+    - release
+
