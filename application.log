@@ -1,0 +1,5 @@
+# Logfile created on 2017-09-23 13:04:05 -0300 by logger.rb/56815
+I, [2017-09-23T13:04:05.115211 #6972]  INFO -- : logando no cloud https://digitalocean.com/api/v1.0/, credentials: pablo,carambola
+I, [2017-09-23T13:04:05.115233 #6972]  INFO -- : logando no cloud https://digitalocean.com/api/v1.0/, credentials: pablo,carambola
+I, [2017-09-23T13:05:25.664789 #7032]  INFO -- : logando no cloud https://digitalocean.com/api/v1.0/, credentials: pablo,carambola
+I, [2017-09-23T13:05:25.664806 #7032]  INFO -- : logando no cloud https://digitalocean.com/api/v1.0/, credentials: pablo,carambola

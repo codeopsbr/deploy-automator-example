@@ -1,0 +1,17 @@
+# Logfile created on 2017-09-23 13:01:47 -0300 by logger.rb/56815
+I, [2017-09-23T13:01:47.503670 #6852]  INFO -- : Iniciando definicoes.rb
+F, [2017-09-23T13:01:47.503708 #6852] FATAL -- : Iniciando definicoes.rb
+I, [2017-09-23T13:01:47.503745 #6852]  INFO -- : email_sent
+E, [2017-09-23T13:01:47.503766 #6852] ERROR -- : nao foi possivel enviar email. mande :autenticacao ou :provisionamento
+I, [2017-09-23T13:04:05.115086 #6972]  INFO -- : Iniciando definicoes.rb
+F, [2017-09-23T13:04:05.115137 #6972] FATAL -- : Iniciando definicoes.rb
+I, [2017-09-23T13:04:05.115182 #6972]  INFO -- : do_login
+I, [2017-09-23T13:04:05.115252 #6972]  INFO -- : login_ok
+I, [2017-09-23T13:04:05.115298 #6972]  INFO -- : email_sent
+E, [2017-09-23T13:04:05.115342 #6972] ERROR -- : nao foi possivel enviar email. mande :autenticacao ou :provisionamento
+I, [2017-09-23T13:05:25.664605 #7032]  INFO -- : Iniciando definicoes.rb
+F, [2017-09-23T13:05:25.664707 #7032] FATAL -- : Iniciando definicoes.rb
+I, [2017-09-23T13:05:25.664741 #7032]  INFO -- : do_login
+I, [2017-09-23T13:05:25.664817 #7032]  INFO -- : login_ok
+I, [2017-09-23T13:05:25.664829 #7032]  INFO -- : email_sent
+E, [2017-09-23T13:05:25.664841 #7032] ERROR -- : nao foi possivel enviar email. mande :autenticacao ou :provisionamento
